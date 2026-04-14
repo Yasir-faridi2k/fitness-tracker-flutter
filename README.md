@@ -33,4 +33,4 @@ A simple and modern fitness tracking app built using Flutter.
 
 ## 👨‍💻 Author
 
-Your Name
+yasir faridi
