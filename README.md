@@ -1,17 +1,36 @@
-# fitness_tracker
+# 🏋️ Fitness Tracker App (Flutter)
 
-A new Flutter project.
+A simple and modern fitness tracking app built using Flutter.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+* 📱 Real-time step counting using phone sensors
+* 🔥 Automatic calorie calculation
+* 🎯 Daily step goal tracking
+* 🎨 Clean and modern UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Pedometer package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+(Add your app screenshots here)
+
+## 📦 APK
+
+(Add APK file link if you want)
+
+## 💡 Future Improvements
+
+* Save data locally
+* Add charts & history
+* Dark mode support
+
+---
+
+## 👨‍💻 Author
+
+Your Name
